@@ -8,5 +8,8 @@ Add merge.
 =======
 add merge.
 stash
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
